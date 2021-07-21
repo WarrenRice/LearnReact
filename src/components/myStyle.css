@@ -1,3 +1,11 @@
 .primary {
-    color: blue;
+    color: red;
+}
+
+.pink {
+    color: purple;
+}
+
+.font-xl {
+    font-size: 64px;
 }
